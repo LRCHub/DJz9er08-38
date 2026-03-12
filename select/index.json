@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Slide",
+  "base_artist": "KISS OF LIFE",
+  "createdAt": "2026-03-12T03:03:35.517760Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Slide",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/01_Slide_Gary_Allan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Slide Away",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/02_Slide_Away_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Toosie Slide",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/03_Toosie_Slide_Drake.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Slide",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/04_Slide_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Slide",
+      "artist": "L7",
+      "has_synced": true,
+      "path": "select/05_Slide_L7.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Slide",
+      "artist": "Luna",
+      "has_synced": true,
+      "path": "select/06_Slide_Luna.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Slip N' Slide",
+      "artist": "Lords of Acid",
+      "has_synced": true,
+      "path": "select/07_Slip_N'_Slide_Lords_of_Acid.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Blue Slide Park",
+      "artist": "Mac Miller",
+      "has_synced": false,
+      "path": "select/08_Blue_Slide_Park_Mac_Miller.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Steppin' In A Slide Zone",
+      "artist": "The Moody Blues",
+      "has_synced": true,
+      "path": "select/09_Steppin'_In_A_Slide_Zone_The_Moody_Blues.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Slide Away",
+      "artist": "Noel Gallagher",
+      "has_synced": true,
+      "path": "select/10_Slide_Away_Noel_Gallagher.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Slide Away",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/11_Slide_Away_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Slide Away",
+      "artist": "The Verve",
+      "has_synced": true,
+      "path": "select/12_Slide_Away_The_Verve.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Slide Show",
+      "artist": "Travis",
+      "has_synced": true,
+      "path": "select/13_Slide_Show_Travis.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Slide Show - Live At Glastonbury Festival / 1999",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/14_Slide_Show_-_Live_At_Glastonbury_Festival___1999_Travis.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Slide Show (Live At Glastonbury Festival \u0000 1999)",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/15_Slide_Show_(Live_At_Glastonbury_Festival_\u0000_1999)_Travis.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Slide Show (Live At The Link Café / 1999)",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/16_Slide_Show_(Live_At_The_Link_Café___1999)_Travis.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Slide",
+      "artist": "KISS OF LIFE",
+      "has_synced": false,
+      "path": "select/pl_01_Slide_KISS_OF_LIFE.txt"
+    }
+  ]
+}
